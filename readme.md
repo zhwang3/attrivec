@@ -14,9 +14,9 @@ python attrivec.py dataset/yelp_academic_dataset_business.json .
 
 ## Dependencies
 ```
-numpy == 1.24.3
-pandas == 1.5.3
-python == 3.9.15
+numpy = 1.24.3
+pandas = 1.5.3
+python = 3.9.15
 ```
 
 ## Disclaimer
