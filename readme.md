@@ -1,6 +1,6 @@
 # Yelp Open Dataset business attributes vectorize tool
 ## About
-Yelp stores business attributes as dict in their open dataset. However, we require vectorized attributes in some scenarios, such as deep learning model training. This piece of script is functioned for this. 
+Business attributes in Yelp Open Dataset are stored as dict. However, we require vectorized attributes in some scenarios, such as deep learning model training. This piece of script is functioned for this. 
 
 Please be noted: this utility is not tested on any other dataset. If you want to vectorize any other dict, preserve your original dataset well firstly, and then you can have a test. Issues are welcomed if you find any bugs on other dataset. 
 
